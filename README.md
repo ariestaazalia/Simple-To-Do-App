@@ -6,7 +6,7 @@ This is a simple app using laravel 8.0 with API and jQuery for Gamatechno test
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/deployment#server-requirements)
 
-Assuming you've already installed on your machine: PHP (>= 7.5.0), [Composer](https://getcomposer.org/), and local web server
+Assuming you've already installed on your machine: PHP (>= 7.3.0), [Composer](https://getcomposer.org/), and local web server
 
 ## Installation
 
