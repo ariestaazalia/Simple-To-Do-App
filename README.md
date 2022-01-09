@@ -52,7 +52,7 @@ git clone https://gitlab.com/ariestaazalia/supertodoapp.git
 cd supertodoapp
 composer install
 cp .env.example .env
-php artisan key:Generate
+php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 ```
