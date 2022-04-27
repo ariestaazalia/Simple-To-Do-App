@@ -1,4 +1,4 @@
-# SuperTodoApp
+# Simple To Do App
 
 This is a simple app using laravel 8.0 with API and jQuery
 
@@ -12,12 +12,12 @@ Assuming you've already installed on your machine: PHP (>= 7.3.0), [Composer](ht
 
 Clone the repository
 ```
-git clone https://gitlab.com/ariestaazalia/supertodoapp.git
+git clone https://github.com/ariestaazalia/Simple-To-Do-App.git
 ```
 
 Switch to the folder
 ```
-cd supertodoapp
+cd Simple-To-Do-App
 ```
 
 Install all the dependencies using composer
@@ -48,8 +48,8 @@ You can access the app in http://localhost:8000 (Make sure you run your web serv
 
 ## TLDR
 ```
-git clone https://gitlab.com/ariestaazalia/supertodoapp.git
-cd supertodoapp
+git clone https://github.com/ariestaazalia/Simple-To-Do-App.git
+cd Simple-To-Do-App
 composer install
 cp .env.example .env
 php artisan key:generate
