@@ -1,6 +1,6 @@
 # SuperTodoApp
 
-This is a simple app using laravel 8.0 with API and jQuery for Gamatechno test
+This is a simple app using laravel 8.0 with API and jQuery
 
 ## Getting started
 
